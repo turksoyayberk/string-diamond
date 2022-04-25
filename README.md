@@ -5,19 +5,4 @@
 This program given a letter, it prints a diamond starting with 'A', with the supplied letter at the widest point.
 
 Example: 
-
-Enter a Letter: d
-<br>
-...A...
-<br>
-..B.B..
-<br>
-.C...C.
-<br>
-D.....D
-<br>
-.C...C.
-<br>
-..B.B..
-<br>
-...A...
+![diamond](https://user-images.githubusercontent.com/84626969/165099726-ff86760b-f942-4de2-ac08-27a0f0be7777.png)
